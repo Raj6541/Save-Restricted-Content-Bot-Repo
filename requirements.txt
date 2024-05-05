@@ -9,3 +9,4 @@ opencv-python-headless
 python-decouple
 requests
 speedtest-cli
+flask
